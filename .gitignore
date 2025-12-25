@@ -1,0 +1,14 @@
+# --- System & Environment Files (Ignore these) ---
+bin/
+lib/
+include/
+share/
+pyvenv.cfg
+CACHEDIR.TAG
+
+# --- PyCharm Settings ---
+.idea/
+
+# --- Python Cache ---
+__pycache__/
+*.pyc
